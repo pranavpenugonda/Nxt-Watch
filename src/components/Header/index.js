@@ -88,7 +88,7 @@ const Header = props => (
                   {close => (
                     <PopUpCont>
                       <ConfirmationTxt>
-                        Are you sure, you want to logout
+                        Are you sure, you want to logout?
                       </ConfirmationTxt>
                       <ButtonsCont>
                         <CancelBtn type="button" onClick={() => close()}>
