@@ -55,7 +55,7 @@ const Header = props => (
                       ? 'https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-light-theme-img.png'
                       : 'https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-dark-theme-img.png'
                   }
-                  alt="nxt watch logo"
+                  alt="website logo"
                 />
               </NavLink>
               <HeaderContSub>
