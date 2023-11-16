@@ -116,11 +116,11 @@ class Trending extends Component {
           const textColor = isDarkTheme ? '#f9f9f9' : '#231f20'
 
           return (
-            <div data-testid="trending">
+            <div>
               <Header />
               <MainContainer>
                 <NavigationSideBar />
-                <TrendingContainer bgColor={bgColor}>
+                <TrendingContainer bgColor={bgColor} data-testid="trending">
                   <TrendingVideoTitle>
                     <TitleIconContainer>
                       <HiFire size={35} color="#ff0000" />

@@ -99,7 +99,7 @@ export const LoaderContainer = styled.div`
   align-items: center;
   min-height: 80vh;
 `
-export const SuccessUlViewCont = styled.div`
+export const SuccessUlViewCont = styled.ul`
   list-style-type: none;
   padding-top: 10px;
   padding-left: 25px;
