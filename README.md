@@ -1,4 +1,6 @@
-deployed link: https://prnvnxtwatch.ccbp.tech/
+deployed link: https://prnvnxtwatch.ccbp.tech/ <br>
+### username: rahul  <br>
+### password: rahul@2021 <br>
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
